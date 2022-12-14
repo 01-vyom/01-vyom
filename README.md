@@ -10,7 +10,36 @@ Hi, I'm Vyom, an automation enthusiast. My research interests lie in the field o
 - 😄 &nbsp;Pronouns: he/him/his
 
 ### ⚙️ &nbsp;GitHub Stats
-![Vyom's github stats](https://github-readme-stats.vercel.app/api?username=01-vyom&show_icons=true&theme=cobalt&count_private=true&hide_border=true)
+![Vyom's github stats](https://github-readme-stats.vercel.app/api?username=01-vyom&theme=cobalt&count_private=true&show_icons=true&hide=stars)
+
+<sup>*Stats generated from [README Stats](https://github.com/anuraghazra/github-readme-stats)*. </sup>
+
+Breakdown of my contributions:
+
+- [Huggingface Transformers](https://github.com/huggingface/transformers) - [Pull Requests](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3A01-vyom+is%3Aclosed).
+  - Worked on adding ground-up implementation of Spec-Augment, bug fixes, and documentation fixes.
+
+- [PyTorch Ignite](https://github.com/pytorch/ignite) - [Pull Requests](https://github.com/pytorch/ignite/pulls?q=is%3Apr+author%3A01-vyom+is%3Aclosed), [Issues](https://github.com/pytorch/ignite/issues?q=is%3Aissue+author%3A01-vyom+is%3Aclosed).
+  - Worked on documentation, loss function implementation, and bug fixes.
+
+- [Julia](https://github.com/JuliaLang/www.julialang.org) - [Pull Requests](https://github.com/JuliaLang/www.julialang.org/pulls?q=is%3Apr+author%3A01-vyom+is%3Aclosed), [Issues](https://github.com/JuliaLang/www.julialang.org/issues?q=is%3Aissue+author%3A01-vyom+is%3Aclosed).
+
+    - Worked on documentation.
+
+- [Keras](https://github.com/keras-team/keras) - [Pull Requests](https://github.com/keras-team/keras/pulls?q=is%3Apr+author%3A01-vyom+is%3Aclosed), [Issues](https://github.com/keras-team/keras/issues?q=is%3Aissue+author%3A01-vyom+is%3Aclosed). 
+  - Documentation fixes.
+
+- [TensorFlow](https://github.com/tensorflow) - [Issues](https://github.com/tensorflow/models/issues/10143).
+  - Issue for adding tunable parameters.
+
+- [Pandas](https://github.com/pandas-dev/pandas) - [Pull Requests](https://github.com/pandas-dev/pandas/pulls?q=is%3Apr+author%3A01-vyom+is%3Aclosed).
+  - Worked on styling documentation, documentation fixes, and deprecation handling.
+
+- [Optuna](https://github.com/optuna/optuna) - [Pull Requests](https://github.com/optuna/optuna/pulls?q=is%3Apr+author%3A01-vyom+is%3Aclosed), [Issues](https://github.com/optuna/optuna/issues?q=is%3Aissue+author%3A01-vyom+is%3Aclosed).
+  - Worked on new visualization algorithm implementations, bug fixing, documentation fixes, and testing.
+
+- [Python Typeshed](https://github.com/python/typeshed) - [Pull Requests](https://github.com/python/typeshed/pulls?q=is%3Apr+author%3A01-vyom+is%3Aclosed).
+  - Worked on adding type hints, bug fixes, and documentation fixes.
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="mailto:angerstick3@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
