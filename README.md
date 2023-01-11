@@ -1,5 +1,5 @@
 ## 🖖 Greetings, fellow geeks 
-Hi, I'm Vyom, an automation enthusiast. My research interests lie in the field of Machine Learning, and Transformers. Beside's that I'm an avid reader and enjoy playing soccer.
+Hi, I'm Vyom, an automation enthusiast. My research interests lie in the field of Speech Processing, Machine Learning, and Transformers. Beside's that I'm an avid reader and enjoy playing soccer.
 
 <b>Current Status Quo</b>
 - 🎓 &nbsp;I'm currently pursing Master of Science in Computer Science at [University of Florida](https://www.ufl.edu/) in the [CISE Department](https://www.cise.ufl.edu/) until April 2023. I completed my B. Tech. in Computer Engineering from [Dharmsinh Desai University](https://ddu.ac.in/) in May 2021.
