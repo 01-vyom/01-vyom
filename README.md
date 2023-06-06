@@ -1,10 +1,10 @@
 ## 🖖 Greetings, fellow geeks 
-Hi, I'm Vyom, an automation enthusiast. My research interests lie in the field of Speech Processing, Machine Learning, and Transformers. Beside's that I'm an avid reader and enjoy playing soccer.
+Hi, I'm Vyom, an automation enthusiast. My research interests lie at the intersection of speech processing, machine learning, and transformers. Beside's that I'm an avid reader and enjoy playing soccer.
 
 <b>Current Status Quo</b>
-- 🎓 &nbsp;I'm currently pursing Master of Science in Computer Science at [University of Florida](https://www.ufl.edu/) in the [CISE Department](https://www.cise.ufl.edu/) until May 2023. I completed my B. Tech. in Computer Engineering from [Dharmsinh Desai University](https://ddu.ac.in/) in May 2021.
-- 💼 &nbsp;I'm currently a Research Assistant at [Data Science Research Lab](https://dsr.cise.ufl.edu/). Previously, I interned at [Apple](https://machinelearning.apple.com/) on the Siri Text-to-Speech team as a Machine Learning Researcher and at [Amazon](https://www.amazon.science/) on the Alexa Smart Home Team as an Applied Scientist. Before that, I worked at ISRO as a Research Intern working on the Oceanographical Satellite data interpretation using Machine Learning.
-- 🔭 &nbsp;I’m currently working on transformers for different NLP tasks; particularly Prompting on Large Language Models, Automatic Speech Recognition for Low-resource languages/multi-lingual setting, Dialogue Systems, Speech Enhancement, Text-to-Speech Generation, and Natural Language Generation.
+- 🎓 &nbsp;I completed my master of science in computer science at [University of Florida](https://www.ufl.edu/) from the [CISE Department](https://www.cise.ufl.edu/) in May 2023. I completed my bachelors of technology in computer engineering from [Dharmsinh Desai University](https://ddu.ac.in/) in May 2021.
+- 💼 &nbsp;I'm currently a research assistant at [Data Science Research Lab](https://dsr.cise.ufl.edu/). Previously, I interned at [Apple](https://machinelearning.apple.com/) on the Siri Text-to-Speech team as a machine learning researcher and at [Amazon](https://www.amazon.science/) on the Alexa Smart Home team as an applied scientist. Before that, I worked at ISRO as a Research Intern working on the oceanographical satellite data interpretation using machine learning.
+- 🔭 &nbsp;I’m currently working on transformers for different NLP tasks; particularly prompting large language models, automatic speech recognition for low-resource languages/multi-lingual setting, dialogue systems, speech enhancement, text-to-speech generation, and natural language generation.
 - 🌱 &nbsp;I'm currently learning applications of deep learning, writing research papers, and improving my coding skills.
 - 💬 Ask me about anything, I am happy to help. I am very much open to new research ideas and collaborations. 
 - 😄 &nbsp;Pronouns: he/him/his
