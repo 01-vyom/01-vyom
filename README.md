@@ -51,6 +51,6 @@ Breakdown of my contributions:
 <a href="https://www.kaggle.com/boltcoder"><img src="https://img.shields.io/badge/Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white"alt="Kaggle" /></a>&nbsp;
 <!-- <a href="https://leetcode.com/bolt_coder"><img src="https://img.shields.io/badge/leetcode-FFA116?&style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode"/></a>&nbsp;
 <a href="https://www.codechef.com/users/bolt_coder"><img src="https://img.shields.io/badge/codechef-5B4638?&style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef"/></a>&nbsp; -->
-<a href="https://twitter.com/stancosmos01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://twitter.com/vyomp01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <!-- <a href="https://sigmoid.social/@stancosmos"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>&nbsp; -->
 </p>
